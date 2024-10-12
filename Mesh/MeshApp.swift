@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+
 struct MeshApp: App {
     var body: some Scene {
         WindowGroup {
@@ -15,3 +16,4 @@ struct MeshApp: App {
         }
     }
 }
+
